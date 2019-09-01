@@ -29,7 +29,7 @@ Enter the name of the city/area that your vacation or business trip will be in.
 ### “Which state are you located in? “
 Use the abbreviation of the state. For example, California is CA, Washington is WA, and New York is NY. If you need the abbreviation of the state, this link helps: https://abbreviations.yourdictionary.com/articles/state-abbrev.html
 
-### “Which cuisines are you interested in” 
+### “Which cuisines are you interested in? ” 
 Enter one cuisine each time this is prompted. When you don’t want to enter anymore cuisines, type STOP. Cuisines include Mexican, Thai, Pizza, Hot Dogs, etc. 
 
 ### “What is the most you would spend for a single lunch or dinner?” 
